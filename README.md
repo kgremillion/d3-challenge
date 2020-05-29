@@ -1,1 +1,1 @@
-# Dynmic D3 Graphs
+# Dynamic D3 Graphs
